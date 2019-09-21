@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Unicorp
+description: Where dreams come business
+logo: resources/logo_200x200.png
+show_downloads: false
